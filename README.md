@@ -21,7 +21,7 @@ Did you know, you can also create a fully functional Draggable Image Slider in V
 Steps to Create A Toast Notification in JavaScript
 To create a toast notification using HTML, CSS, and JavaScript, follow the given steps line by line:
 
-Create a folder. You can name this folder whatever you want and create the files listed below inside it.
-Create an index.html file. The file name must be index and its extension .html
-Create a style.css file. The file name must be style and its extension .css
-Create a script.js file. The file name must be script and its extension .js
+1. Create a folder. You can name this folder whatever you want and create the files listed below inside it.
+2. Create an index.html file. The file name must be index and its extension .html
+3. Create a style.css file. The file name must be style and its extension .css
+4. Create a script.js file. The file name must be script and its extension .js
