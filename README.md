@@ -11,7 +11,7 @@ The toast will automatically disappear after five seconds, or the user can hide 
 For a video tutorial on how to create the toast notification using HTML, CSS, and JavaScript, you can watch the given YouTube video.
 
  ## Video Tutorial of Toast Notification in JavaScript
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BaakzvsR4UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Create A Toast Notification in HTML CSS & JavaScript | Toast Notification in JavaScript](https://res.cloudinary.com/marcomontalbano/image/upload/v1681536746/video_to_markdown/images/youtube--BaakzvsR4UU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/BaakzvsR4UU "Create A Toast Notification in HTML CSS & JavaScript | Toast Notification in JavaScript")
  
 I hope you enjoyed the demo of this toast notification and were able to understand the code and concept behind its creation using HTML, CSS, and JavaScript. While there are many JavaScript libraries available for creating toast notifications, this tutorial shows you how to build your own from scratch.
 
