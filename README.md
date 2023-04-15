@@ -1,5 +1,7 @@
 # Create A Toast Notification in HTML CSS & JavaScript
 
+![Create-A-Toast-Notification-in-HTML-CSS-JavaScript-Toast-Notification-in-JavaScript](https://user-images.githubusercontent.com/46256884/232185262-c5b580aa-4457-4237-9098-097c055b5a47.jpg)
+
 You may have seen toast notifications on many websites or web applications, as they are common features used to provide feedback or alerts to the user’s current task without interrupting it. If you’re interested in learning how to create a similar toast notification of your own, this blog is written for you.
 
 In this blog, I’ll show you how to Create A Toast Notification in HTML, CSS, and JavaScript with four styles: success, error, warning, and information. You can easily customize its design and behavior, and add it to your web application.
