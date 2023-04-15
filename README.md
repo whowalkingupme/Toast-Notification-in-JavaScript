@@ -1,4 +1,5 @@
-Create A Toast Notification in HTML CSS & JavaScript Toast Notification in JavaScript
+# Create A Toast Notification in HTML CSS & JavaScript
+
 You may have seen toast notifications on many websites or web applications, as they are common features used to provide feedback or alerts to the user’s current task without interrupting it. If you’re interested in learning how to create a similar toast notification of your own, this blog is written for you.
 
 In this blog, I’ll show you how to Create A Toast Notification in HTML, CSS, and JavaScript with four styles: success, error, warning, and information. You can easily customize its design and behavior, and add it to your web application.
@@ -7,10 +8,10 @@ In this toast notification, there are four buttons on the webpage, and when a us
 
 The toast will automatically disappear after five seconds, or the user can hide it by clicking on the close icon. To make the toast more visually appealing, I’ve added a progress line at the bottom of each toast.
 
-If you’re curious about how the toast notification looks and functions, you can click here to see a live demo of it. For a video tutorial on how to create the toast notification using HTML, CSS, and JavaScript, you can watch the given YouTube video.
+For a video tutorial on how to create the toast notification using HTML, CSS, and JavaScript, you can watch the given YouTube video.
 
-Video Tutorial of Toast Notification in JavaScript
-
+ ## Video Tutorial of Toast Notification in JavaScript
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaakzvsR4UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
 I hope you enjoyed the demo of this toast notification and were able to understand the code and concept behind its creation using HTML, CSS, and JavaScript. While there are many JavaScript libraries available for creating toast notifications, this tutorial shows you how to build your own from scratch.
 
